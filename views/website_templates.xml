@@ -1,0 +1,9 @@
+<odoo>
+    <template id="hotel_page" name="Hotel Website Page" inherit_id="website.layout">
+        <xpath expr="//main" position="inside">
+            <section class="oe_structure">
+                <h2>Welcome to Hotel Booking System</h2>
+            </section>
+        </xpath>
+    </template>
+</odoo>
